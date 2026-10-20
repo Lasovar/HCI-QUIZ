@@ -1,0 +1,22 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.map {
+    display: flex;
+    justify-content: space-between;
+}
+
+.options {
+    background-color: black;
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.profile {
+    background-color: pink;
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+}
