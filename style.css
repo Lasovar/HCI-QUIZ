@@ -5,6 +5,11 @@ body {
 .map {
     display: flex;
     justify-content: space-between;
+    align-content:space-evenly;
+}
+
+.spacer {
+    height: 500px;
 }
 
 .options {
@@ -12,6 +17,14 @@ body {
     width: 30px;
     height: 30px;
     border-radius: 5px;
+}
+
+.information {
+    background-color: paleturquoise;
+    height: 190px;
+    border-color: blue;
+    border-radius: 5px;
+    padding: 3px;
 }
 
 .profile {
